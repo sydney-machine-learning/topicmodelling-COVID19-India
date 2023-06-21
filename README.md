@@ -1,5 +1,4 @@
 # topicmodelling-COVID19-India
-Topic Modelling for COVID19 
 
 ### Deep learning for COVID-19 topic modelling via Twitter: Alpha, Delta and Omicron
 
